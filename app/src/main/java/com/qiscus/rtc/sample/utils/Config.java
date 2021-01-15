@@ -5,8 +5,8 @@ package com.qiscus.rtc.sample.utils;
  */
 
 public class Config {
-    public static String CHAT_APP_ID = "sdksample";
-    public static String CHAT_APP_SECRET = "2820ae9dfc5362f7f3a10381fb89afc7";
+    public static String CHAT_APP_ID = "kawan-seh-g857ffuuw9b";
+    public static String CHAT_APP_SECRET = "c7f3ab87acc3843a1b81d77c2b4d6b0c";
     public static String CALL_APP_ID = "sample-application-C2";
     public static String CALL_APP_SECRET = "KpPiqKGpoN";
 }
